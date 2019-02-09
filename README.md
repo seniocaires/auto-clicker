@@ -1,1 +1,5 @@
-# auto-clicker
+# Auto Clicker for games
+
+```
+sh clicker.sh
+```
